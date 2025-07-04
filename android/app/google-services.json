@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "601311275320",
+    "firebase_url": "https://newfirebase-c6dd4-default-rtdb.firebaseio.com",
+    "project_id": "newfirebase-c6dd4",
+    "storage_bucket": "newfirebase-c6dd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601311275320:android:b453e9736c325548ea79cd",
+        "android_client_info": {
+          "package_name": "com.example.newfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoXwMcdRKuDlwWk9Rfg0wrBzcHeTk6Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601311275320:android:2187d7734b49fd21ea79cd",
+        "android_client_info": {
+          "package_name": "myapp.iztimesheet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoXwMcdRKuDlwWk9Rfg0wrBzcHeTk6Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
