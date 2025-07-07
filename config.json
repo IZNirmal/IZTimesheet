@@ -78,6 +78,18 @@
             "purpose": "To use that feature, the app needs access to your location.",
             "platform": "ios",
             "required": true
+        },
+        {
+            "title": "Write External Storage",
+            "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+            "platform": "android",
+            "required": false
+        },
+        {
+            "title": "Read External Storage",
+            "name": "android.permission.READ_EXTERNAL_STORAGE",
+            "platform": "android",
+            "required": false
         }
     ],
     "capabilities": {
@@ -122,8 +134,8 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.7",
-    "buildNumber": 7,
+    "appVersion": "0.0.8",
+    "buildNumber": 8,
     "runtimeUrl": "https://iztimesheet-sandbox.mxapps.io",
     "hermesEnabled": true,
     "cookieEncryptionEnabled": false
