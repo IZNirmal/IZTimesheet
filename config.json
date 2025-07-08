@@ -94,8 +94,8 @@
     ],
     "capabilities": {
         "deepLink": {
-            "value": "",
-            "enabled": false,
+            "value": "iztimesheetapp",
+            "enabled": true,
             "android": {
                 "webLinks": [
                     {
@@ -134,8 +134,8 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.8",
-    "buildNumber": 8,
+    "appVersion": "0.0.9",
+    "buildNumber": 9,
     "runtimeUrl": "https://iztimesheet-sandbox.mxapps.io",
     "hermesEnabled": true,
     "cookieEncryptionEnabled": false
