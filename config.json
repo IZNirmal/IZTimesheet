@@ -134,8 +134,8 @@
             "enabled": false
         }
     },
-    "appVersion": "2.0.0",
-    "buildNumber": 10,
+    "appVersion": "2.0.1",
+    "buildNumber": 11,
     "runtimeUrl": "https://iztimesheet-sandbox.mxapps.io",
     "hermesEnabled": true,
     "cookieEncryptionEnabled": false
