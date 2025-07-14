@@ -9,6 +9,15 @@
     <uses-permission android:name="android.permission.CAMERA"/>
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <!-- For media access on Android 13+ -->
+<uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+<uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+<uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+<uses-permission android:name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED" tools:node="remove" /> <!-- Optional -->
+
+<!-- For document/file access on Android 13+ -->
+<uses-permission android:name="android.permission.READ_MEDIA_DOCUMENTS" />
+    
     <!-- Required for scheduling local notifications -->
     <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM"/>
     <!-- If this app uses ads, remove 'tools:node="remove"' to enable ad ID access. -->
