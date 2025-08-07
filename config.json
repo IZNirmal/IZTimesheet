@@ -131,11 +131,11 @@
             "enabled": false
         },
         "nativeOTA": {
-            "enabled": false
+            "enabled": true
         }
     },
-    "appVersion": "2.0.2",
-    "buildNumber": 12,
+    "appVersion": "2.0.3",
+    "buildNumber": 13,
     "runtimeUrl": "https://iztimesheet-sandbox.mxapps.io",
     "hermesEnabled": true,
     "cookieEncryptionEnabled": false
